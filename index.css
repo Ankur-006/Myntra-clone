@@ -164,7 +164,7 @@ header {
   .slides {
     width:auto;
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     overflow-x: auto;
     scroll-snap-type: x mandatory;
     
