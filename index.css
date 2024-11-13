@@ -188,7 +188,7 @@ header {
   .slides > div {
     scroll-snap-align: start;
     flex-shrink: 0;
-    height: 820px;
+    height: 600px;
     margin-right: 20px;
     margin-top: 70px;
     border-radius: 10px;
